@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lilyarotaru
+- 👀 I’m interested in Java development
+- 🌱 I’m currently learning in JavaOPs
+- 💞️ I’m looking to collaborate on my project
+- 📫 How to reach me: rotaru.lulu@gmail.com
